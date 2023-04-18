@@ -1,0 +1,25 @@
+
+header {
+  padding: 1rem 0;
+}
+
+.main-content {
+  margin-top: 2rem;
+}
+
+.product {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 1rem 0;
+  margin: 1rem 0;
+  
+}
+
+.product-detail {
+  padding: 0 2rem;
+}
+
+.product-price {
+  font-weight: bold;
+  font-size: 140%;
+}
